@@ -1,0 +1,79 @@
+html{
+  /* background-color: purple; */
+}
+
+body{
+  margin: 50px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  background-color: black;
+}
+
+
+h1{
+  font-size: 42px;
+}
+
+p{
+  font-size: 20px;
+  max-width: 800px;
+
+
+
+}
+
+.emphasis{
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.color{
+  color: green;
+}
+
+#specialParagrah{
+position: relative;
+left: 40px;
+}
+
+#header{
+width: 300px;
+position:absolute;
+top:0px;
+right:0px;
+}
+
+.photosection{
+  position: relative;
+  height: 70vw;
+}
+
+#delaware{
+  position: absolute;
+  top:0px;
+  right:0px;
+  width: 600px;
+}
+
+#liberty{
+  position: absolute;
+  top: 300px;
+  right: 300px;
+  width: 200px;
+}
+
+.trilayout{
+  width: 30%;
+}
+
+#hat{
+  position: absolute;
+  right:0px;
+  bottom:0px;
+}
+
+#xx{
+  position: absolute;
+  left: 35%;
+  top:35%;
+}
